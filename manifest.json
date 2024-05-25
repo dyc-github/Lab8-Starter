@@ -1,11 +1,11 @@
 {
     "name": "lab8-starter",
-    "short_name": "",
+    "short_name": "david choi",
     "description": "",
     "start_url": "",
     "display": "standalone",
-    "background_color": "",
-    "theme_color": "",
+    "background_color": "white",
+    "theme_color": "#E6E6FA",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
